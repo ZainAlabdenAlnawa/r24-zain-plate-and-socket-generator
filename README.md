@@ -63,7 +63,6 @@ Each socket group supports:
 
 * **Framework:** React + Vite + TypeScript  
 * **Styling:** CSS (mobile-first, responsive layout)  
-* **State Management:** useState / Context API  
 * **Canvas Rendering:** HTML + CSS scaling  
 * **Validation Logic:** Custom utilities with numeric constraints  
 
