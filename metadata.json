@@ -1,0 +1,5 @@
+{
+  "name": "Plate & Socket Generator",
+  "description": "An interactive interface to visually design and configure plates and socket groups. Users can customize dimensions, add multiple items, and arrange sockets with real-time validation and responsive canvas scaling.",
+  "requestFramePermissions": []
+}
