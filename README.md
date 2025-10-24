@@ -94,7 +94,7 @@ npm run build
 
 ## Live Demo
 
-Deployed on Netlify: [Demo Link](https://your-demo-url.vercel.app/)
+Deployed on Netlify: [Demo Link](https://r24-pasg.netlify.app/)
 
 ---
 
