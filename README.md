@@ -106,7 +106,7 @@ Deployed on Netlify: [Demo Link](https://your-demo-url.vercel.app/)
 
 * Sockets cannot yet be copied between plates (planned feature).
 
-* No backend integration, all logic handled client-side.
+* No backend integration - all logic handled client-side.
 
 ## Screenshots
 ![Preview Screenshot](./screenshot.png)
